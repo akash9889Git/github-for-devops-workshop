@@ -1,0 +1,37 @@
+ssh -i "shell-scripting-for-devops-key.pem" ubuntu@ec2-13-204-76-254.ap-south-1.compute.amazonaws.com
+exit
+ls
+python testing.py
+ls -l
+rm testing.py
+ls
+git init
+ls
+ls -a
+git status
+git status
+git status
+git add testing,py
+git status
+git add testing,py
+git status
+git add testing.py
+git status
+git rm --cached testing.py
+git status
+git add .
+git status
+git commit -m "added testng files"
+git config --global user.name "akash"
+git config --global user.email "akashaws9889@gmail.com"
+git commit -m "added testng files"
+ls
+rm testing.py
+ls
+git status
+git restore .
+ls
+git status
+histort
+history
+history
