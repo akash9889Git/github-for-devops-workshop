@@ -35,3 +35,15 @@ git status
 histort
 history
 history
+
+
+cd git-demo-new/
+ls
+pwd
+clear
+git cone https://github.com/akash9889Git/github-for-devops-workshop.git
+git clone https://github.com/akash9889Git/github-for-devops-workshop.git
+ls
+cd github-for-devops-workshop/
+ls
+history
