@@ -1,8 +1,10 @@
-# print("Hello akash the billionaire ips officer")
+"""
+This module demonstrates a simple hello function.
+"""
 
 def hello():
     """
-    this is demo
+    Return a greeting message.
     """
     return "Hello Dosto"
 
